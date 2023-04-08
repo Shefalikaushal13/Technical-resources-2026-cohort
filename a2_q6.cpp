@@ -3,6 +3,7 @@ using namespace std;
 
 int main(){
     int n;
+    cout<<"Enter the number of rows in your pattern";
     cin>>n;
     int sp=1,st=n/2;
     for(int i=1;i<=n;i++){
