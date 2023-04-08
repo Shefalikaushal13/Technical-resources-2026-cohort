@@ -1,9 +1,6 @@
 #include <iostream>
 using namespace std;
 
-#include<iostream>
-using namespace std;
-
 int main(){
 
    int  i,j,k,space,n;
@@ -36,7 +33,3 @@ int main(){
     
     return 0;
 }
-
-
-int main(){
-   
