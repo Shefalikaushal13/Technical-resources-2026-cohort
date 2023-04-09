@@ -3,6 +3,7 @@ using namespace std;
 int main()
 {
     int i,j,n;
+    cout<<"Enter the number";
     cin>>n;
     int space=2*n-3;
     int st=1;
