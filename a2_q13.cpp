@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int n,i,j,number,sum;
+    cout<<"Enter number of rows";
     cin>>n;
     cout<<endl;
     for(i=0;i<=n;i++){
